@@ -227,4 +227,4 @@ tar  -czvf与tar  czvf是一样的效果，所以说，后面统一取消-。
 	如：tar xjvf dira.tar.bz2   解压到当前目录
 	如：tar xjvf dira.tar.bz2 -C  /home/book  解压到/home/book
 ~~~
-
+1
